@@ -1,8 +1,8 @@
 # scrollpage
 scrollpage
-선생님께서 해보라고해서 하는 페이지 구성 :
-Main banner page
-introuduce
-location
-total : 3 pages
-bulid : html, css, javascript, sass
+페이지 구성 :
+메인페이지
+회사소개
+찾아오시는 길
+total : 3 page
+build : html, css, sass, javascript
