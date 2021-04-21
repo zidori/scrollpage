@@ -5,4 +5,4 @@ Main banner page
 introuduce
 location
 total : 3 pages
-bulid : html, css, javascript
+bulid : html, css, javascript, sass
